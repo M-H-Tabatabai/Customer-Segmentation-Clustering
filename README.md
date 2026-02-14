@@ -85,10 +85,6 @@ This project includes a comparative study of two clustering algorithms:
 * Applied AgglomerativeClustering
 * Evaluated with Silhouette Score
 
-### 📊 Dendrogram
-
-![Dendrogram](images/dendrogram_complete.png)
-
 ### 📊 Cluster Visualization
 
 ![Hierarchical](images/hierarchical_income_spending.png)
