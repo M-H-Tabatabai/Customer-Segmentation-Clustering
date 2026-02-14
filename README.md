@@ -123,9 +123,8 @@ Customer-Segmentation-Clustering/
 ├── data/
 │   └── Customer.csv
 │
-├── notebooks/
-│   ├── 01_KMeans.ipynb
-│   └── 02_Hierarchical.ipynb
+│KMeans.ipynb
+│Hierarchical.ipynb
 │
 ├── README.md
 └── requirements.txt
