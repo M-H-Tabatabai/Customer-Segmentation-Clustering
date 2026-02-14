@@ -96,7 +96,7 @@ This project includes a comparative study of two clustering algorithms:
 | Algorithm    | Silhouette Score | Notes                      |
 | ------------ | ---------------- | -------------------------- |
 | K-Means      | 0.55               | Compact spherical clusters |
-| Hierarchical | 0.36               | Structured cluster merging |
+| Hierarchical | 0.54               | Structured cluster merging |
 
 > Final evaluation depends on dataset characteristics and business objective.
 
